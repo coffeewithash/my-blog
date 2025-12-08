@@ -2,7 +2,7 @@ main:
   - title: "Home"
     url: /
   - title: "Blog"
-    url: /year-archive/
+    url: /posts/
   - title: "Case Studies"
     url: /portfolio/
   - title: "About"
