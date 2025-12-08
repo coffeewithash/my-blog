@@ -253,7 +253,7 @@ While IndiGo demonstrated quick execution in processing refunds and setting ambi
 
 ## References
 
-<a name="1"></a>[1] [Indigo canceled more than 1000 flights: The real reason behind these cancellations explained | - The Times of India](https://timesofindia.indiatimes.com/life-style/travel/indigo-canceled-more-than-1000-flights-the-real-reason-behind-these-cancellations-explained/articleshow/125800469.cms)
+<a name="1"></a>[1] [Indigo canceled more than 1000 flights: The real reason behind these cancellations explained](https://timesofindia.indiatimes.com/life-style/travel/indigo-canceled-more-than-1000-flights-the-real-reason-behind-these-cancellations-explained/articleshow/125800469.cms)
 
 <a name="2"></a>[2] [‘Failed in your duty:’ DGCA issues showcause to IndiGo CEO & accountable manager](https://timesofindia.indiatimes.com/india/failed-to-make-adequate-arrangements-dgca-serves-show-cause-notice-to-indigo-ceo-cites-lapses-in-planning-and-oversight/articleshow/125807710.cms)
 
@@ -269,13 +269,13 @@ While IndiGo demonstrated quick execution in processing refunds and setting ambi
 
 <a name="8"></a>[8] [IndiGo Gets Breathing Room: DGCA's FDTL Exemption Eases Pilot Crunch (Outlook India)](https://www.outlookindia.com/amp/story/national/indigo-gets-breathing-room-dgcas-fdtl-exemption-eases-pilot-crunch)
 
-<a name="9"></a>[9] [IndiGo Gets Breathing Room: DGCA's FDTL Exemption Eases Pilot Crunch | Outlook India](https://www.outlookindia.com/national/indigo-gets-breathing-room-dgcas-fdtl-exemption-eases-pilot-crunch)
+<a name="9"></a>[9] [IndiGo Gets Breathing Room: DGCA's FDTL Exemption Eases Pilot Crunch (Outlook India)](https://www.outlookindia.com/national/indigo-gets-breathing-room-dgcas-fdtl-exemption-eases-pilot-crunch)
 
 <a name="10"></a>[10] [2025 IndiGo disruption - Wikipedia](https://en.wikipedia.org/wiki/2025_IndiGo_disruption)
 
 <a name="11"></a>[11] [Aviation stock falls 3% after 200+ flights are cancelled amid staffing and regulatory pressures - Trade Brains](https://tradebrains.in/aviation-stock-falls-3-after-200-flights-are-cancelled-amid-staffing-and-regulatory-pressures/)
 
-<a name="12"></a>[12] [Why are IndiGo flights getting cancelled across India? Airlines' crisis explained | India News](https://www.hindustantimes.com/india-news/why-are-indigo-flights-getting-cancelled-across-india-airlines-crisis-explained-101764910300209.html)
+<a name="12"></a>[12] [Why are IndiGo flights getting cancelled across India? Airlines' crisis explained](https://www.hindustantimes.com/india-news/why-are-indigo-flights-getting-cancelled-across-india-airlines-crisis-explained-101764910300209.html)
 
 <a name="13"></a>[13] [What are the FDTL norms that led to the IndiGo crisis: Explained - The Financial Express](https://www.financialexpress.com/business/airlines-aviation-what-are-the-fdtl-norms-that-led-to-the-indigo-crisis-explained-4066817/)
 
@@ -285,9 +285,9 @@ While IndiGo demonstrated quick execution in processing refunds and setting ambi
 
 <a name="16"></a>[16] [Inside IndiGo's Turbulence: What Went Wrong And Why Flights Were Cancelled](https://www.thecore.in/business/inside-indigos-turbulence-what-went-wrong-and-why-flights-were-cancelled-849915)
 
-<a name="17"></a>[17] [When will IndiGo's flight cancellation mess end? CEO finally gives a timeline | India News](https://www.hindustantimes.com/india-news/indigo-ceo-pieter-elbers-gives-timeline-for-end-to-flight-mess-as-dgca-eases-norms-between-dec-1015-101764939319310.html)
+<a name="17"></a>[17] [When will IndiGo's flight cancellation mess end? CEO finally gives a timeline](https://www.hindustantimes.com/india-news/indigo-ceo-pieter-elbers-gives-timeline-for-end-to-flight-mess-as-dgca-eases-norms-between-dec-1015-101764939319310.html)
 
-<a name="18"></a>[18] [‘Deeply Sorry… But Disruptions May Continue For Another 5-10 Days’: IndiGo CEO Pieter Elbers In First Video Message Amid Crisis | WATCH](https://www.republicworld.com/india/worst-day-says-indigo-ceo-disruptions-likely-to-continue-for-another-5-10-days-amid-crisis)
+<a name="18"></a>[18] [‘Deeply Sorry… But Disruptions May Continue For Another 5-10 Days’: IndiGo CEO Pieter Elbers In First Video Message Amid Crisis](https://www.republicworld.com/india/worst-day-says-indigo-ceo-disruptions-likely-to-continue-for-another-5-10-days-amid-crisis)
 
 <a name="19"></a>[19] [IndiGo flight cancellations highlights: Airline cancels over 1,000 flights to achieve reboot, says CEO Pieter Elbers](https://www.thehindu.com/business/Industry/indigo-flight-airline-cancellation-delay-status-live-updates-december-5-2025/article70361188.ece)
 
@@ -303,7 +303,7 @@ While IndiGo demonstrated quick execution in processing refunds and setting ambi
 
 <a name="25"></a>[25] [IndiGo CEO Elbers says aircraft grounding crisis has peaked - The Economic Times](https://m.economictimes.com/industry/transportation/airlines-/-aviation/indigo-ceo-elbers-says-aircraft-grounding-crisis-has-peaked/articleshow/114711108.cms)
 
-<a name="26"></a>[26] [Why did govt norms not hit other airlines as bad as IndiGo? Mass flight cancellations decoded | India News](https://www.hindustantimes.com/india-news/why-did-govt-norms-not-hit-other-airlines-as-bad-as-indigo-mass-flight-cancellations-decoded-101765103097341.html)
+<a name="26"></a>[26] [Why did govt norms not hit other airlines as bad as IndiGo? Mass flight cancellations decoded](https://www.hindustantimes.com/india-news/why-did-govt-norms-not-hit-other-airlines-as-bad-as-indigo-mass-flight-cancellations-decoded-101765103097341.html)
 
 <a name="27"></a>[27] [IndiGo flight cancellation crisis: Experts answer key questions - The Indian Express](https://indianexpress.com/article/legal-news/indigo-flight-cancellation-answers-to-key-question-for-passengers-10405606/)
 
@@ -311,7 +311,7 @@ While IndiGo demonstrated quick execution in processing refunds and setting ambi
 
 <a name="29"></a>[29] [IndiGo cancellations continue: Latest updates on delays, DGCA action - Business Standard](https://www.business-standard.com/industry/aviation/indigo-flight-cancellations-latest-developments-dgca-fdtl-relief-125120500164_1.html)
 
-<a name="30"></a>[30] [IndiGo meltdown: DGCA caves in, freezes crew duty rules amid flight disruptions | India News](https://www.hindustantimes.com/india-news/indigo-meltdown-dgca-eases-crew-duty-rules-amid-massive-flight-disruptions-101764924188799.html)
+<a name="30"></a>[30] [IndiGo meltdown: DGCA caves in, freezes crew duty rules amid flight disruptions](https://www.hindustantimes.com/india-news/indigo-meltdown-dgca-eases-crew-duty-rules-amid-massive-flight-disruptions-101764924188799.html)
 
 <a name="31"></a>[31] [IndiGo Flight Status Live: DGCA issues show-cause notice to IndiGo CEO over week-long ops failure](https://m.economictimes.com/news/newsblogs/breaking-news-live-updates-december-5-indigo-flight-delhi-weather-aqi-parliament-winter-session-central-excise-amendment-congress-protests-sir-modi-trump-india-us-trade-deal-india-eu-fta-russia-ukraine-war/liveblog/125779424.cms)
 
