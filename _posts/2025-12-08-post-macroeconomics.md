@@ -161,9 +161,42 @@ Despite the ability of fiscal policy to affect output, **Classical Economists ar
 - **The "Price" Test:** RBC theory struggles to explain why prices usually rise during booms (since supply shocks should lower prices). Fiscal shocks explain inflation during booms well.
 - **The "Productivity" Test:** RBC fits the data well here—productivity usually rises in booms. Fiscal shocks imply productivity should fall (due to diminishing returns), which contradicts most historical data
 
+### **Unemployment in the Classical Model**
 
+Classical economics, in its simplest form, struggles to explain cyclical unemployment, as the basic supply-and-demand labor model predicts **zero unemployment** (market-clearing wage). To account for real-world unemployment, classical economists introduced modifications based on heterogeneity and search costs.
+### **1. Classical Explanation for Non-Zero Unemployment**
+- **Labor Market Heterogeneity:** The simple model fails because it assumes all workers and jobs are identical. In reality, workers have varied skills, and jobs have varied requirements.
+- **Search and Matching Costs:** Matching workers to suitable jobs is **time-consuming and costly**. This explains why some people are always unemployed:
+    - **Frictional Unemployment:** People spending time and effort searching for a new job after losing one or entering the labor force.
+    - **Structural Unemployment:** Workers' skills do not match the requirements of growing industries (chronic mismatch).
+- **Natural Rate of Unemployment:** The sum of frictional and structural unemployment is always greater than zero.
 
-
+### **2. Explaining Cyclical Unemployment (The Mismatch Argument)**
+Some classical economists argue that macroeconomic disturbances (like productivity shocks) increase the mismatch between workers and firms, causing cyclical unemployment.
+- **Mechanism (Adverse Productivity Shock):**
+    - A shock (e.g., oil price increase) affects industries and regions differently (jobs destroyed in energy-intensive sectors, created in energy-light sectors).
+    - Workers displaced from shrinking sectors search for jobs elsewhere, increasing **frictional unemployment**.
+    - If their old skills are obsolete, they become **structurally unemployed**.
+    - The increased number of job seekers increases the time needed to find a new job.
+    - **Result:** Adverse productivity shocks raise the total of frictional and structural unemployment, effectively raising the **natural rate of unemployment** during recessions.
+- **Evidence of Mismatch:**
+    - Studies (e.g., Davis and Haltiwanger) show significant **"churning"** in the U.S. labor market, where job creation and destruction rates are high, even in non-recession years.
+    - Research shows that during or immediately following recessions, **job destruction exceeds job creation** significantly.
+- **Critique:** The mismatch theory doesn't explain everything:
+    - Much of the increase in unemployment is due to **temporary layoffs** (workers wait for a callback, not search for a new job).
+    - The theory predicts more **job vacancies** during recessions (as firms try to find workers with new skills), but vacancies actually **fall**.
+### **3. Classical Policy View on Unemployment**
+Classical economists remain opposed to using active fiscal policy to combat unemployment, even with the mismatch modification.
+- **Inadequacy of Fiscal Policy:** Raising aggregate demand (e.g., $G \uparrow$) does not directly fix the microeconomic problem of **mismatch** between skills and job requirements.
+- **Recommended Approach:** Eliminate barriers to labor market adjustment, such as:
+    - High legal minimum wages (which price low-skilled workers out of the market).
+    - Burdensome regulations that raise the cost of hiring.
+### **4. Jobless Recoveries**
+"Jobless recoveries" are a new feature of the U.S. business cycle, where employment continues to fall or remains stagnant for months _after_ a recession officially ends (after the business-cycle trough).
+- **Recent Examples:** Recoveries following the 1990–1991, 2001, and 2007–2009 recessions.
+- **Potential Explanations:**
+    - **Mild Recessions:** (Disputed, as the 2007–2009 recession was severe).
+    - **Increased Labor Productivity:** Strong productivity growth enables firms to increase output (**GDP**) without hiring new workers, thus delaying the recovery of the **labor market**. This explains the lack of job creation, but not why this pattern is only recent.
 
 
 
