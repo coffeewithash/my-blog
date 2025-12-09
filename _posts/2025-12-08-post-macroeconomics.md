@@ -37,3 +37,15 @@ tags:
     * Occurs at the intersection of **AD** and **LRAS** (where markets for labor, goods, and assets all clear).
     * **Output:** Fixed at $\bar{Y}$.
     * **Price Level:** The price level ($P$) is endogenous. It is found by setting the AD equation equal to $\bar{Y}$ and solving for $P$. This ensures the price level adjusts to align demand with full-employment output.
+ 
+<script type="text/javascript" id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']]
+    }
+  };
+</script>
