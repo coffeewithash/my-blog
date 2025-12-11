@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Asheesh Kumar
+title: 
 email:
 description: Personal website and portfolio featuring case studies and technical blogs.
 twitter_username: username
-github_username: kuasheesh
+github_username: coffeewithash
 minimal_mistakes_skin: default
 search: true
 
@@ -55,7 +55,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Asheesh Kumar"
+  name   : ""
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "-"
   links:
