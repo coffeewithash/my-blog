@@ -19,7 +19,7 @@ Even if Country A is **better at everything** than Country B, they should still 
 > 
 > - Should she do her own typing just because she is faster than her secretary?
 >     
-> - **No.** Every hour she spends typing, she loses $500 she could have made arguing a case. The secretary only loses $20.
+> - **No.** Every hour she spends typing, she loses $$500$ she could have made arguing a case. The secretary only loses $$20$.
 >     
 > - **Verdict:** The lawyer has a _Comparative Advantage_ in law; the secretary has a _Comparative Advantage_ in typing (even if he is slower).
 >     
