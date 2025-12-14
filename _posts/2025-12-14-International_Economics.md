@@ -264,7 +264,128 @@ Without trade (Autarky), you are stuck on your line. With trade, you can consume
     
 
 
+## 🏭 The "Resource Lottery": Heckscher-Ohlin Theory
 
+_A Creative Study Guide to Factor Endowments_
+
+### 🧠 1. The Core Concept (The "Why")
+
+**The Shift:** While Ricardo said trade happens because of _technological_ differences (efficiency), Heckscher and Ohlin said, "No, it's about what resources you have in abundance."
+
+**The Big Idea:** Countries are endowed with different resources (Labor vs. Capital).1 They should export goods that use their abundant resource and import goods that use their scarce resource.2
+
+> **"Trade is essentially an indirect way of exchanging factors of production."3**
+
+---
+
+### 🏗️ 2. The Setup: The "2x2x2" World
+
+To make this work, we assume a simplified world:
+
+1. **2 Countries** (e.g., USA vs. Vietnam)
+    
+2. **2 Goods** (e.g., Airplanes ✈️ vs. Textiles 👕)
+    
+3. **2 Factors of Production** (Capital 💰 vs. Labor 👷)
+    
+
+**The Critical Distinction:**
+
+- **Factor Abundance:** How much capital/labor a _country_ has.
+    
+- **Factor Intensity:** How much capital/labor a _product_ needs.
+    
+
+---
+
+### 🎭 3. The Creative Scenario: "Robo-Republic" vs. "Handi-Land"
+
+**The Players:**
+
+- **Robo-Republic (Capital Abundant):** Has few people, but massive factories, machinery, and cash. Capital (r) is cheap here; Labor (w) is expensive.
+    
+- **Handi-Land (Labor Abundant):** Has a massive population, but few machines. Labor (w) is cheap here; Capital (r) is expensive.
+    
+
+**The Goods:**
+
+- **Airplanes (Capital Intensive):** You need huge factories and expensive tech to build them.
+    
+- **T-Shirts (Labor Intensive):** You need many hands to sew and stitch.
+    
+
+**The Logic Chain:**
+
+1. **Robo-Republic** has cheap capital $\rightarrow$ They can make Airplanes cheaply.
+    
+2. **Handi-Land** has cheap labor $\rightarrow$ They can make T-Shirts cheaply.
+    
+3. **Trade:** Robo-Republic exports Airplanes; Handi-Land exports T-Shirts.
+    
+
+---
+
+### 📉 4. Visualizing the Theory: The "Bowed-Out" PPF
+
+Unlike the Ricardian straight line, the H-O model accounts for the reality that resources are not perfectly adaptable.
+
+**The Graph Explained:**
+
+- **Shape:** Concave (bowed out).
+    
+- **Why?** **Increasing Opportunity Costs**. As Robo-Republic tries to make its _first_ T-shirt, it's easy (use the few idle workers). But to make _millions_ of T-shirts, it has to shut down high-tech airplane factories and force engineers to sew buttons. This is inefficient.
+    
+- **Pre-Trade Equilibrium:** Robo-Republic produces at a point high up the Y-axis (mostly Airplanes). Handi-Land produces far out on the X-axis (mostly T-Shirts).
+    
+
+---
+
+### 🏛️ 5. The Four Pillars (The "Family" of Theorems)
+
+The H-O theory is actually a set of four related theorems. Think of them as the "consequences" of the main theory.
+
+|**Theorem**|**The Simple English Translation**|**The "So What?"**|
+|---|---|---|
+|**1. Heckscher-Ohlin**|"Export what you have a lot of."|Predicts trade patterns.|
+|**2. Stolper-Samuelson**|"Trade creates winners and losers within a country."|In the US (Capital rich), trade helps factory owners but hurts unskilled workers. This explains **political opposition to trade**.|
+|**3. Rybczynski**|"If you find oil, your manufacturing might die."|An increase in one resource (e.g., discovering oil) increases output of that industry _more than proportionately_ and sucks resources from others (Dutch Disease).|
+|**4. Factor Price Equalization**|"Wages across the world will eventually converge."|Trade makes wages in Handi-Land rise and wages in Robo-Republic fall until they meet (in theory!).|
+
+---
+
+### 🕵️ 6. The Plot Twist: The Leontief Paradox
+
+In 1953, economist Wassily Leontief tested this theory on the USA.
+
+- **Expectation:** The US is the most capital-rich country; it should export capital-intensive goods.
+    
+- **Reality:** The US exported **labor-intensive** goods!
+    
+- **The Lesson:** Labor isn't just "bodies." The US exported goods requiring _skilled_ labor (human capital). The definition of "factor" matters!
+    
+
+---
+
+### 📜 7. Key Quotes
+
+> "The effect of international trade is to tend to equalize factor prices between countries... thus serving to some extent as a substitute for the mobility of factors."
+> 
+> — Bertil Ohlin
+
+> "Abundance is relative, not absolute. A country is capital abundant only if its ratio of capital to labor is higher than the rest of the world."4
+
+---
+
+### 📝 8. Summary Cheat Sheet
+
+- **Ricardian Model** = Technology differences = Straight Line PPF.5
+    
+- **H-O Model** = Resource differences = Bowed Out PPF.
+    
+- **Rule of Thumb:** Look at the ratio ($K/L$). If Country A has a higher 6$K/L$ ratio, it exports the K-good.7
+    
+- **Political Economy:** H-O explains why labor unions in rich countries often oppose free trade (Stolper-Samuelson effect).
+    
 
 
 
