@@ -1869,8 +1869,549 @@ The Budget is divided into two pockets:
 5. **Micro/Welfare:** Use "Schemes/Poverty" to see how it affects the *common man*.
 
 
+---
+
+# ⚡ The Energy Transition: The Great Indian Balancing Act
+
+### *From Fossil Reliability to Green Variability (2024-25)*
+
+> **"We are trying to change the engine of a running car. We must keep the lights on today (Energy Security) while building the grid of tomorrow (Sustainability)."**
+
+---
+
+## 1. 📊 The Scorecard: Where do we stand? (2024-25)
+
+*India is at a "Tipping Point" where Non-Fossil capacity is catching up to Fossil capacity.*
+
+### **The Power Mix (Installed Capacity ~476 GW)**
+
+* **Fossil Fuel (The Old Guard):** **~52-53%** (Coal, Lignite, Gas).
+* *Role:* Provides "Base Load" (Power that is available 24/7).
 
 
+* **Non-Fossil Fuel (The New Guard):** **~47-48%** (Solar, Wind, Hydro, Nuclear).
+* *Target:* India aims for **500 GW** of Non-Fossil capacity by **2030**.
+* *Milestone:* We have already crossed the 200 GW mark in Renewables alone.
+
+
+
+---
+
+## 2. 🌍 The Pledge: "Panchamrit" (The 5 Nectars)
+
+*Prime Minister's commitment at COP26 (Glasgow) to save the planet.*
+
+1. **Reach 500 GW** Non-fossil energy capacity by 2030.
+2. **Meet 50%** of energy requirements from renewable energy by 2030.
+3. **Reduce Total Projected Carbon Emissions** by 1 Billion Tonnes (now to 2030).
+4. **Reduce Carbon Intensity** of the economy by <45% by 2030.
+5. **Achieve Net Zero** by **2070**.
+
+---
+
+## 3. 🚧 The Challenges: The "Energy Trilemma"
+
+*Transitioning is not just about building solar panels; it's about solving three conflicting goals.*
+
+| Challenge | The Problem Statement |
+| --- | --- |
+| **1. Intermittency (The "Duck Curve")** | Solar works only when the sun shines; Wind only when it blows. <br>
+
+<br>**The Risk:** Grid collapse if supply drops suddenly at 6 PM (Sunset) when demand peaks. |
+| **2. Storage (The Missing Link)** | We can generate green power, but we can't store it cheaply. <br>
+
+<br>**Lithium-Ion:** Expensive and dependent on China. <br>
+
+<br>**Pumped Hydro:** Slow to build. |
+| **3. Land & Geography** | Solar Parks need massive land (approx 4-5 acres per MW). <br>
+
+<br>**Conflict:** "Food vs. Fuel" – Solar parks competing with agricultural land. |
+| **4. The "Just Transition"** | What happens to the **~3-4 Million people** dependent on the Coal ecosystem (Miners, Truckers, Railways) in states like Jharkhand/Odisha? |
+| **5. DISCOM Health** | Our Distribution Companies (DISCOMs) are broke (High AT&C Losses). If they can't pay the Green Power Generators, the revolution stops. |
+
+---
+
+## 4. 🧪 The Game Changer: Green Hydrogen
+
+*The "Fuel of the Future" for hard-to-abate sectors (Steel, Cement, Shipping).*
+
+### **National Green Hydrogen Mission**
+
+* **The Goal:** Produce **5 Million Metric Tonnes (MMT)** by 2030.
+* **The Tech:** Use Renewable Energy to split water (H_2O) into Hydrogen and Oxygen using an **Electrolyser**.
+* **Current Status:**
+* Cost is high (~$4-5/kg). Target is to bring it to **$1-2/kg**.
+* **PLI Scheme:** Government is giving incentives for manufacturing Electrolysers in India.
+
+
+
+---
+
+## 5. 🔋 Key Policy Interventions (The Solutions)
+
+### **A. PM-Surya Ghar: Muft Bijli Yojana**
+
+* **Concept:** Decentralized Solar. Instead of one giant plant, put solar on 1 Crore rooftops.
+* **Benefit:** Reduces load on the grid and transmission losses.
+
+### **B. Carbon Market (CCTS)**
+
+* **Concept:** "Cap and Trade."
+* Companies that pollute less earn **Carbon Credit Certificates (CCC)**. Companies that pollute more must *buy* these certificates. It puts a price on pollution.
+
+### **C. Green Energy Corridor**
+
+* Building specific transmission lines dedicated to evacuating power from solar/wind parks to the national grid.
+
+---
+
+## 📊 Quick Summary for Revision
+
+| Indicator | Status |
+| --- | --- |
+| **Target Year (Net Zero)** | **2070** |
+| **Target 2030** | **500 GW Non-Fossil Capacity** |
+| **Top Renewable Source** | **Solar** (Fastest growing) |
+| **Biggest Hurdle** | **Energy Storage** (Battery Costs) |
+| **Strategic Fuel** | **Green Hydrogen** |
+
+---
+
+### **💡 Critical Analysis:**
+
+* **The Coal Paradox:** Even though we are adding record Solar, our **Coal consumption is also rising**. Why? Because energy *demand* is growing so fast (7-8%) that renewables alone cannot catch up yet. We are adding "Green" on top of "Black," not replacing it yet.
+* **The Battery Bet:** India is betting big on **Advanced Chemistry Cell (ACC) Batteries** (PLI Scheme) to reduce reliance on imports.
+
+---
+
+
+---
+
+# 📉 The Human Equation: Jobs, Poverty & Inequality
+
+### *The Struggle for Dignity in a Growing Economy (2024-25)*
+
+> **"Poverty is the parent of revolution and crime. An economy that grows for the top 1% while the bottom 50% struggles is building a palace on quicksand."** — *Aristotle (Adapted)*
+
+---
+
+## 1. 🚫 Unemployment: The "Jobless" Paradox
+
+*India has the world's largest youth population, but do they have work?*
+
+### **A. The Data Reality (PLFS 2023-24)**
+
+*Official data paints a recovering picture, but the ground reality is nuanced.*
+
+| Indicator | Status (Usual Status) | The "Fine Print" |
+| --- | --- | --- |
+| **Unemployment Rate (UR)** | **3.2%** (All-time low trend) | **Low Quality Jobs:** Many are engaged in unpaid household work or low-paying self-employment (selling pakoras). |
+| **Youth Unemployment (15-29 yrs)** | **~10%** | **The Danger Zone.** Educated youth face higher unemployment than uneducated ones. |
+| **LFPR (Labour Force Participation)** | **~60.1%** | **Rising:** More people are entering the job market, especially women. |
+| **Female LFPR** | **~41.7%** | **The Surprise:** A sharp jump from 23% (2017). But much of this is in *agriculture* as unpaid helpers. |
+
+### **B. Types of Unemployment in India**
+
+1. **Structural Unemployment:** (The Mismatch)
+* *Scenario:* Tech companies need AI engineers, but colleges are producing mechanical engineers.
+
+
+2. **Disguised Unemployment:** (The Hidden)
+* *Scenario:* A farm needs 2 people, but 5 family members work on it. 3 are "employed" but produce zero extra value.
+
+
+3. **Educated Unemployment:**
+* *Irony:* A PhD holder applying for a Peon's job (seen recently in UP/Railways recruitment).
+
+
+
+---
+
+## 2. 🏚️ Poverty: From "BIMARU" to "Benefit"
+
+*Measuring deprivation beyond just money.*
+
+### **A. The Multidimensional Poverty Index (MPI)**
+
+*We no longer count poverty by calories (Alagh/Tendulkar Comm), but by **Deprivation** (Health, Education, Standard of Living).*
+
+* **The Big Number:** **24.82 Crore** Indians escaped Multidimensional Poverty in the last 9 years.
+* **Current Headcount Ratio:** **~11.28%** (Down from 29.17% in 2013-14).
+* **Top Performing States:** Uttar Pradesh, Bihar, Madhya Pradesh (The poorest states improved the fastest).
+
+### **B. Defining the Lines**
+
+* **Extreme Poverty:** Living on less than **$2.15** (PPP) per day. (World Bank says India has almost eliminated this).
+* **Relative Poverty:** Living with less than the society average. (This is rising).
+
+> **Success Story:** **Kerala** is set to be declared the first state with **Zero Extreme Poverty** (Nov 2025 target).
+
+---
+
+## 3. ⚖️ Inequality: The "K-Shaped" Divide
+
+*The rich are getting richer, the poor are getting... mostly just by.*
+
+### **A. The "Billionaire Raj" Report (World Inequality Lab)**
+
+*India is now one of the most unequal countries in the world.*
+
+| Metric | The Top 1% (The Ultra Rich) | The Bottom 50% (The Common Man) |
+| --- | --- | --- |
+| **Share of National Income** | Earn **~22.6%** of total income. | Earn only **15%**. |
+| **Share of Wealth** | Own **~40.1%** of total wealth. | Own **~6.4%**. |
+| **Tax Burden** | Pay lower *effective* tax due to corporate cuts. | Pay high GST on every packet of milk/biscuit. |
+
+### **B. The Gini Coefficient**
+
+* **Score:** ~82.3 (Wealth Gini).
+* **Meaning:** 0 is perfect equality, 100 is perfect inequality. 82 is **Alarming**.
+
+> **The "K-Shape" Recovery:** Post-COVID, the organized sector (IT, Finance) zoomed up (Upper arm of K), while the unorganized sector (MSME, Daily Wagers) went down (Lower arm of K).
+
+---
+
+## 4. 🛠️ Government's "Triple Attack" Strategy
+
+### **Phase 1: Attack Poverty (Safety Nets)**
+
+* **Free Grain:** PMGKAY (Free Ration for 81 Crore people).
+* **Free Health:** Ayushman Bharat (₹5 Lakh cover).
+* **Housing:** PM Awas Yojana (Roof over head).
+
+### **Phase 2: Attack Unemployment (Skilling & Capex)**
+
+* **Capex Push:** Spending ₹11.11 Lakh Crore on roads/railways to create construction jobs.
+* **PLI Schemes:** Incentivizing factories to hire workers.
+* **Employment Linked Incentive (ELI):** A new proposal (2025) to subsidize the *first salary* of new employees to encourage hiring.
+
+### **Phase 3: Attack Inequality (Empowerment)**
+
+* **Lakhpati Didi:** Creating wealth assets for rural women.
+* **Mudra Loans:** Giving capital to small entrepreneurs to break the monopoly of big corporates.
+
+---
+
+## 📊 Quick Revision Dashboard
+
+| Indicator | Good News ✅ | Bad News ⚠️ |
+| --- | --- | --- |
+| **Unemployment** | Rate fell to **3.2%**. | Youth unemployment is still **~10%**. |
+| **Poverty** | **25 Crore** escaped poverty. | **Inequality** is at a historic high. |
+| **Job Market** | Female participation **rose**. | Mostly in **unpaid/farm** work. |
+| **Wealth** | 3rd largest count of **Billionaires**. | Bottom 50% own just **6%** wealth. |
+
+---
+
+### **💡 Critical Analysis (The "So What?"):**
+
+* **The "Middle Income Trap":** If inequality continues, the poor won't have money to buy goods. If they don't buy, factories won't produce. Growth will stall.
+* **Conclusion:** India has solved the problem of **Starvation** (Absolute Poverty) but has birthed a new problem of **Concentration** (Inequality). The next decade must focus on **"Quality of Jobs"** rather than just quantity.
+
+---
+
+---
+
+# 🌏 India’s SDG Report Card (2024-25)
+
+### *The Race to 2030: Score 71/100 (NITI Aayog)*
+
+> **"India has moved from the 'Aspirant' category to the 'Front Runner' category. The focus has shifted from 'Planning' to 'Saturation' (100% coverage)."**
+
+---
+
+## 1. 🏆 The Leaderboard (State Rankings)
+
+*Based on NITI Aayog SDG India Index 2023-24 (Released July 2024)*
+
+| Category | Top Performers (The Stars) | Bottom Performers (The Laggards) |
+| --- | --- | --- |
+| **Top States** | **1. Kerala & Uttarakhand** (Score: 79) <br>
+
+<br> **2. Tamil Nadu** (78) <br>
+
+<br> **3. Goa** (77) | **1. Bihar** (Score: 57) <br>
+
+<br> **2. Jharkhand** (62) <br>
+
+<br> **3. Nagaland** (63) |
+| **Top UTs** | **Chandigarh** (77) | **Dadra & Nagar Haveli** (67) |
+| **Fastest Movers** | **Uttar Pradesh** (Improved score by +25 points since 2018). | N/A |
+
+---
+
+## 2. 🚦 Goal-Wise Performance (The Traffic Signal)
+
+### **🟢 Green Signals (Great Progress)**
+
+*These are goals where India is likely to meet or exceed targets.*
+
+* **SDG 7 (Clean Energy):** **Score 96.**
+* *Why?* 100% Electrification (Saubhagya) + massive Solar push (PM Surya Ghar).
+
+
+* **SDG 6 (Clean Water):** **Score 89.**
+* *Why?* Success of **Jal Jeevan Mission** (Tap water reached ~15 Crore+ homes).
+
+
+* **SDG 12 (Responsible Consumption):** **Score 83.**
+* *Why?* Drastic reduction in plastic use & high waste processing rates under Swachh Bharat 2.0.
+
+
+
+### **🟡 Yellow Signals (Work in Progress)**
+
+* **SDG 1 (No Poverty):** **Score 72.**
+* *Status:* 24.8 Crore people exited Multidimensional Poverty. Focus is now on the "Last Mile."
+
+
+* **SDG 3 (Good Health):** **Score 77.**
+* *Status:* MMR and IMR have dropped, but out-of-pocket expenditure is still high.
+
+
+* **SDG 13 (Climate Action):** **Score 67.**
+* *Status:* India is the *only* G20 nation on track to meet Paris Agreement goals (2°C compliant).
+
+
+
+### **🔴 Red Signals (Critical Concern)**
+
+*These are goals where India is lagging behind.*
+
+* **SDG 5 (Gender Equality):** **Score 49 (Lowest).**
+* *Issue:* Low Female Labour Force Participation (FLPR), Wage Gap, and political representation.
+
+
+* **SDG 2 (Zero Hunger):** **Score 52.**
+* *Issue:* The "Nutrition Paradox"—we have surplus food (Wheat/Rice) but high **Stunting & Wasting** in children.
+
+
+* **SDG 4 (Quality Education):** **Score 61.**
+* *Issue:* Enrolment is high (98%), but *Learning Outcomes* (Reading/Math skills) are poor (ASER Report).
+
+
+
+---
+
+## 3. 📉 Critical Data Points (For 2025 Exams)
+
+* **Global Rank:** India ranks **109th** on the Global SDG Index (UN Report 2024).
+* **Overall Score:** Improved from **57** (2018) \rightarrow **66** (2020) \rightarrow **71** (2024).
+* **Front Runners:** **32 States/UTs** are now in the "Front Runner" category (Score 65-99). No state is in the "Aspirant" (Score <50) category anymore.
+
+---
+
+## 4. 🧩 The "3-S" Strategy for 2030
+
+1. **Saturation:** Ensure schemes like Ujjwala (Gas) and PM Awas (Housing) reach 100% of eligible people.
+2. **Slocalization:** "Localization of SDGs." Letting Panchayats (Villages) decide their own goals (e.g., a "Malnutrition-Free Village").
+3. **Sustainability:** Focusing on "Green Growth" (Green Hydrogen, Solar) to meet economic goals without killing the planet.
+
+---
+
+---
+
+# 🇮🇳 Dimensions & Impact of Indian Economic Policy
+
+### *From "Reform by Stealth" to "Reform by Intent" (2024-25 Analysis)*
+
+> **"Economic policy in India has shifted gears from being 'Crisis-Driven' (1991) to 'Aspiration-Driven' (2025). It is no longer about saving the economy; it is about scaling it."**
+
+---
+
+## 1. 🏗️ The Dimensions of Policy (The 4 Pillars)
+
+*Indian economic policy rests on four major pillars that determine the direction of the nation.*
+
+### **I. The Growth Dimension (Capex-Led)**
+
+* **The Strategy:** The government decided that the Private Sector was too scared to invest (due to NPAs), so the **Government must lead**.
+* **Policy Tool:** Massive **Capital Expenditure (Capex)** by the Centre.
+* *Data:* Capex budget reached **₹11.11 Lakh Crore** (3.4% of GDP) in FY25.
+
+
+* **Impact:**
+* **Multiplier Effect:** For every ₹1 the Govt spends, it creates ~₹2.45 of GDP impact.
+* **Result:** India remains the fastest-growing major economy **(~6.5% - 7.0%)** despite global slowdowns.
+
+
+
+### **II. The Fiscal Dimension (Consolidation with Compassion)**
+
+* **The Strategy:** Spend big but don't go broke.
+* **The Balance:**
+* *Spending:* On Infrastructure (Roads/Railways) + Welfare (Free Ration).
+* *Saving:* Reducing the **Fiscal Deficit** to **<4.5%** by FY26 (Glide Path).
+
+
+* **Impact:**
+* **Credit Rating:** Stable.
+* **Inflation Control:** By not printing excessive money, inflation is kept in check.
+
+
+
+### **III. The Monetary Dimension (Inflation Targeting)**
+
+* **The Mandate:** The RBI has one job—keep inflation at **4% (+/- 2%)**.
+* **The Shift (Dec 2025 Context):** After battling high inflation in 2022-23, the RBI shifted to a **"Growth Supportive"** stance, cutting the Repo Rate to **5.25%** as inflation cooled.
+* **Impact:**
+* **Positive:** Home loans and car loans are becoming cheaper again.
+* **Negative:** Savers (Fixed Deposit holders) get slightly lower returns.
+
+
+
+### **IV. The External Dimension (Strategic Autonomy)**
+
+* **The Strategy:** "Make in India" for the world + Reducing import dependency.
+* **Key Policies:**
+* **PLI Schemes:** Incentivizing domestic manufacturing.
+* **FTAs (Free Trade Agreements):** Signing deals with UAE, Australia, and EFTA nations.
+
+
+* **Impact:**
+* **Electronics:** India transformed from a net importer to a major exporter of mobile phones.
+* **Oil:** By buying discounted Russian oil, India managed to keep domestic fuel prices stable when the world faced a crisis.
+
+
+
+---
+
+## 2. 📉 Impact Assessment: The Report Card (2024-25)
+
+### **A. The Success Stories (Green Zone) ✅**
+
+| Area | Policy Intervention | Real World Impact |
+| --- | --- | --- |
+| **Digital Economy** | **UPI & JAM Trinity** | **Formalization:** Tax compliance increased because transactions are now digital. Small vendors get loans easily. |
+| **Banking Stability** | **IBC (Insolvency Code)** | **Clean Books:** Banks' NPA ratio dropped to a multi-year low (<2.8%). The "Twin Balance Sheet" problem is largely solved. |
+| **Infrastructure** | **PM Gati Shakti** | **Speed:** Highway construction speed doubled. Logistics cost is slowly inching down from 14% to ~9-10%. |
+| **Poverty** | **Welfare Saturation** | **Multidimensional Poverty** fell to ~11.3%. 25 Crore people exited poverty (NITI Aayog). |
+
+### **B. The "Work in Progress" (Yellow Zone) ⚠️**
+
+| Area | Policy Intervention | The Lag Effect |
+| --- | --- | --- |
+| **Manufacturing** | **Make in India** | **Stagnant Share:** Manufacturing share in GDP is stuck at ~17% (Target is 25%). We are growing, but not fast enough to replace China. |
+| **Employment** | **Skill India** | **Jobless Growth Fear:** GDP grows at 7%, but good quality formal jobs are scarce. Youth unemployment remains high (~10%). |
+| **Private Investment** | **Corp Tax Cut** | **The Wait:** Despite tax cuts (2019), private companies are still hesitant to build new factories aggressively. |
+
+### **C. The Structural Challenges (Red Zone) ❌**
+
+| Area | The Issue |
+| --- | --- |
+| **K-Shaped Recovery** | The **Top 10%** (IT, Stock Market) are becoming richer, while the **Bottom 50%** (Rural, Informal) are struggling with inflation. Inequality is at a historic high. |
+| **Agriculture** | Still dependent on Monsoons. While we produce enough food, **food inflation** remains volatile (e.g., Tomato/Onion shocks). |
+
+---
+
+## 3. 🧩 The "New Consensus" (Changes in Economic Thinking)
+
+* **From "Free Markets" to "Industrial Policy":**
+* *Old View:* Government should not pick winners.
+* *New View (PLI):* Government *actively* picks winners (e.g., "We want to make Chips, so we will pay Tata/Micron to do it").
+
+
+* **From "Globalisation" to "De-risking":**
+* *Old View:* Buy from whoever is cheapest (usually China).
+* *New View:* Buy from friends ("Friend-shoring") even if it costs a bit more, to ensure security.
+
+
+
+---
+
+## 📊 Summary Dashboard (Current Status)
+
+| Dimension | Indicator | Trend |
+| --- | --- | --- |
+| **Growth** | GDP Growth | 🟢 **Robust** (World Beating) |
+| **Prices** | Inflation (CPI) | 🟢 **Controlled** (Within band) |
+| **Jobs** | Unemployment | 🔴 **Concern** (Quality of jobs) |
+| **Equity** | Inequality (Gini) | 🔴 **Rising** (Wealth Concentration) |
+| **Stability** | Forex Reserves | 🟢 **Very High** (Buffer against shocks) |
+
+---
+
+### **💡 Critical Conclusion:**
+
+*Indian Economic Policy has successfully solved the **"Hardware"** problems (Roads, Power, Digital payments, Banking stability). The challenge for the next decade is the **"Software"** (Education, Health, Skilling, and reducing Inequality).*
+
+*The machine is built and running fast; now we need to ensure everyone gets a seat on the bus.*
+
+
+Attempting to answer these (even in bullet points) will solidify your mastery over the subject.
+
+---
+
+### **Part I: Structure & National Income (The Foundation)**
+
+1. **K-Shaped Recovery:** "Post-pandemic growth in India has been described as K-shaped." Critically analyze the widening gap between the organized and unorganized sectors and its long-term implications for aggregate demand.
+2. **Structural Transformation:** India transitioned directly from an Agrarian economy to a Service-led economy, skipping the mature Industrial phase. Discuss the structural risks associated with this "leapfrog" development model.
+3. **Per Capita Paradox:** Despite being the 5th largest economy globally, India ranks low (136th) in per capita income. Analyze the structural bottlenecks preventing the trickle-down of national wealth.
+4. **Informal Economy:** Evaluate the challenges in accurately estimating India's National Income given the vastness of the unorganized sector. How does formalization (GST/Digital payments) impact GDP calculation?
+
+---
+
+### **Part II: Agriculture (The Spine)**
+
+5. **Income Security:** "The crisis in Indian agriculture is no longer about food security but income security." Discuss this statement in light of the demand for legalizing MSP (Minimum Support Price).
+6. **Feminization of Agriculture:** As men migrate to cities, women are increasingly managing farms without land titles. Analyze the impact of this "feminization" on access to credit and agricultural productivity.
+7. **Cropping Patterns:** "India exports water-intensive crops (like Rice/Sugarcane) despite facing a severe water crisis." Critically examine the disconnect between India's cropping patterns and its agro-climatic zones.
+8. **Technology vs. Institutions:** Can technological solutions like 'Agri-Stack' and 'Kisan Drones' succeed without fixing institutional issues like land fragmentation and tenancy laws?
+9. **Subsidies vs. Investment:** "India spends more on agricultural subsidies (power/fertilizer) than on capital investment." Evaluate how this expenditure bias hampers long-term agricultural growth.
+
+---
+
+### **Part III: Industry & Infrastructure (The Engine)**
+
+10. **PLI Schemes:** Has the Production Linked Incentive (PLI) scheme succeeded in creating a genuine manufacturing base, or is it merely subsidizing "assembly" (e.g., in mobile phones)? Critically examine.
+11. **MSME Dwarfism:** "Indian MSMEs suffer from a fear of growth (Dwarfism) to avoid regulatory compliance." Explain this phenomenon and suggest policy measures to encourage firms to scale up.
+12. **Labor Codes:** Evaluate the potential of the new Labor Codes in balancing "Ease of Doing Business" for employers with "Social Security" for gig workers.
+13. **Infrastructure Financing:** Analyze the National Monetization Pipeline (NMP). Is leasing out public assets a viable long-term strategy for financing new infrastructure, or does it create private monopolies?
+14. **Strategic Autonomy:** Discuss the significance of the India Semiconductor Mission (ISM). Can India realistically compete with established players like Taiwan and China in high-tech manufacturing?
+
+---
+
+### **Part IV: External Sector (The Global Link)**
+
+15. **Import Dependency:** Despite "Atmanirbhar Bharat," India's dependence on Chinese imports (API, Components) has increased. Analyze the structural reasons behind this trade asymmetry.
+16. **Services Dominance:** "India's export basket is heavily skewed towards services (IT/BPO), protecting it from Dutch Disease but limiting job creation for the semi-skilled." Discuss.
+17. **Rupee Trade:** Evaluate the challenges and prospects of the "Internationalization of the Rupee" in the context of recent geopolitical shifts (e.g., Vostro accounts).
+18. **FTA Strategy:** India is aggressively signing Free Trade Agreements (FTAs) with developed nations (UAE, Australia, EFTA). How is this strategy different from the earlier "Look East" FTAs?
+
+---
+
+### **Part V: Money, Banking & Finance (The Blood)**
+
+19. **IBC Performance:** "The Insolvency and Bankruptcy Code (IBC) shifted the power dynamic from borrowers to creditors." Critically evaluate the performance of IBC in resolving the Twin Balance Sheet problem.
+20. **Inflation Targeting:** Analyze the conflict between the RBI's "Inflation Targeting" mandate and the Government's "Growth Push." Has the Monetary Policy Committee (MPC) been effective in managing supply-side shocks?
+21. **Bad Banks:** Discuss the role of the National Asset Reconstruction Company Ltd (NARCL) in cleaning up bank books. Does it solve the problem of bad loans or just shift it?
+22. **Digital Currency:** Distinguish between UPI and Central Bank Digital Currency (e₹). What problem is the RBI trying to solve by introducing the e-Rupee?
+
+---
+
+### **Part VI: Fiscal Policy (The Wallet)**
+
+23. **Capex vs. Revenue:** "The quality of government expenditure has improved with a shift towards Capital Expenditure (Capex)." Analyze the multiplier effect of Capex compared to revenue spending.
+24. **Fiscal Federalism:** Discuss the strain on Centre-State financial relations in the post-GST compensation era. How does the cessation of compensation impact state budgets?
+25. **Tax Base:** India's Tax-to-GDP ratio has reached historical highs (~11.7%), yet the direct tax base remains narrow. Suggest measures to widen the tax net beyond the salaried class.
+26. **FRBM Act:** Evaluate the relevance of the FRBM Act targets (3% Fiscal Deficit) in a post-pandemic world. Should India move to a "cyclical" deficit target instead of a fixed number?
+
+---
+
+### **Part VII: Human Development & Planning (The Soul)**
+
+27. **Demographic Dividend:** "India's Demographic Dividend is a time-bound opportunity closing around 2055." Critically examine the 'Skill Gap' as the biggest threat to realizing this dividend.
+28. **Jobless Growth:** "Economic growth without commensurate employment generation is a recipe for social unrest." Analyze the phenomenon of 'Jobless Growth' in India and the rise of the gig economy.
+29. **Inequality:** "India has eliminated extreme poverty but birthed extreme inequality." Discuss the findings of the World Inequality Report regarding wealth concentration in India.
+30. **SDG Localization:** India has performed well in SDG 6 (Water) and SDG 7 (Energy) but lags in SDG 5 (Gender) and SDG 2 (Nutrition). Analyze the reasons behind this uneven progress.
+
+---
+
+### **💡 How to Assess Yourself?**
+
+* **Excellent:** You can answer 25+ questions with specific data points (e.g., "fiscal deficit is 4.9%", "PLFS unemployment is 3.2%").
+* **Good:** You can explain the *concepts* for most questions but lack specific data.
+* **Needs Revision:** You struggle to understand the core conflict in more than 10 questions.
 
 
 
