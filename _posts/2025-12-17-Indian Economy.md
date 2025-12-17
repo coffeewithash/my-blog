@@ -48,7 +48,7 @@ The Indian economy is often described as a **"Mixed, Developing, and Dualistic"*
 
 ### **4. "Leapfrog" Development**
 
-* Unlike the West, which moved from **Agri \rightarrow Industry \rightarrow Services**, India moved from **Agri \rightarrow Services**, largely skipping the heavy industrialization phase.
+* Unlike the West, which moved from **Agri $\rightarrow$ Industry \rightarrow Services**, India moved from **Agri \rightarrow Services**, largely skipping the heavy industrialization phase.
 
 ---
 
@@ -1042,6 +1042,26 @@ Unlike previous 5-year plans, this policy has **no end date**. It is dynamic and
 * **Policy Response:** The government created **ONDC** (Open Network for Digital Commerce) to give small sellers a fighting chance against big MNC e-commerce giants.
 
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
