@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Fiscal Architect: Public Finance Dashboard</title>
+    
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=Merriweather:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+
+    <!-- Palette Configuration -->
+    <!-- Chosen Palette: Warm Professional -->
+    <!-- Background: #FAFAF9 (Warm Gray/Cream) -->
+    <!-- Primary Text: #1E293B (Slate 800) -->
+    <!-- Accent 1 (Growth/Good): #5F8D4E (Sage Green) -->
+    <!-- Accent 2 (Warning/Debt): #BC4749 (Muted Red) -->
+    <!-- Accent 3 (Structure/Info): #475569 (Slate 600) -->
+
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        'fiscal-bg': '#FAFAF9',
+                        'fiscal-card': '#FFFFFF',
+                        'fiscal-text': '#1E293B',
+                        'fiscal-muted': '#64748B',
+                        'fiscal-sage': '#5F8D4E',
+                        'fiscal-red': '#BC4749',
+                        'fiscal-blue': '#3B82F6',
+                    },
+                    fontFamily: {
+                        sans: ['Inter', 'sans-serif'],
+                        serif: ['Merriweather', 'serif'],
+                    }
+                }
+            }
+        }
+    </script>
+
+    <style>
+        /* Custom Scrollbar for clean look */
+        ::-webkit-scrollbar {
+            width: 8px;
+        }
+        ::-webkit-scrollbar-track {
+            background: #f1f1f1; 
+        }
+        ::-webkit-scrollbar-thumb {
+            background: #cbd5e1; 
+            border-radius: 4px;
+        }
+        ::-webkit-scrollbar-thumb:hover {
+            background: #94a3b8; 
+        }
+
+        /* Chart Container Utilities */
+        .chart-container {
+            position: relative;
+            width: 100%;
+            max-width: 600px; /* Tailwind max-w-xl is approx 576px */
+            margin-left: auto;
+            margin-right: auto;
+            height: 350px;
+        }
+        
+        @media (max-width: 640px) {
+            .chart-container {
+                height: 250px;
+            }
+        }
+
+        .tab-active {
+            border-bottom: 2px solid #5F8D4E;
+            color: #1E293B;
+            font-weight: 600;
+        }
+        .tab-inactive {
+            border-bottom: 2px solid transparent;
+            color: #64748B;
+        }
+        .tab-inactive:hover {
+            color: #5F8D4E;
+        }
+        
+        .interactive-card {
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+        }
+        .interactive-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+
+    <!-- Application Structure Plan: 
+         The app is structured as a vertical scrolling dashboard with 5 distinct sections ("Modules").
+         1. Hero: Introduction to the "Economic Trinity" (Role of Govt).
+         2. Market & Goods: Interactive grid for Goods Taxonomy (Private/Public/Merit).
+         3. Revenue & Taxation: Visualizers for Tax Curves (Laffer) and GST Concepts.
+         4. Expenditure & Debt: Interactive Deficit Calculator and Crowding Out simulation.
+         5. Federalism: Donut chart for Finance Commission logic.
+         
+         Rational: This structure breaks the dense text into logical "functional" areas of government finance, allowing the user to "operate" the concepts (calculate deficits, adjust tax rates) rather than just reading about them.
+    -->
+
+    <!-- Visualization & Content Choices:
+         1. Economic Trinity -> Goal: Inform -> 3-Column Card Layout -> Hover to reveal details -> Simple, effective grouping.
+         2. Goods Taxonomy -> Goal: Organize -> Interactive Filtering Grid -> Click to filter types -> Clean replacement for list text.
+         3. Laffer Curve -> Goal: Change -> Chart.js Line Chart with slider -> User moves point on curve -> Demonstrates the "Peak" concept dynamically.
+         4. 15th FC Criteria -> Goal: Relationships -> Chart.js Doughnut -> Shows relative weights of devolution criteria clearly.
+         5. Deficit Types -> Goal: Inform/Calculate -> Input fields + Dynamic Formula -> Transforms abstract definitions into math users can see.
+         6. Crowding Out -> Goal: Compare -> Chart.js Bar Chart -> Slider increases Govt debt, decreases Private Investment -> Visually proves the trade-off.
+         
+         CONFIRMATION: NO SVG graphics used. NO Mermaid JS used. All visuals are CSS/HTML or Canvas (Chart.js).
+    -->
+</head>
+<body class="bg-fiscal-bg text-fiscal-text font-sans antialiased selection:bg-fiscal-sage selection:text-white">
+
+    <!-- Navigation -->
+    <nav class="sticky top-0 z-50 bg-white/90 backdrop-blur-md border-b border-gray-200 shadow-sm">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between h-16 items-center">
+                <div class="flex items-center gap-2">
+                    <div class="w-8 h-8 bg-fiscal-text rounded flex items-center justify-center text-white font-bold text-lg">🏛️</div>
+                    <span class="font-serif font-bold text-xl tracking-tight text-fiscal-text">Fiscal<span class="text-fiscal-sage">Architect</span></span>
+                </div>
+                <div class="hidden md:flex space-x-8 text-sm font-medium text-gray-600">
+                    <button onclick="scrollToSection('trinity')" class="hover:text-fiscal-sage transition">Role of Govt</button>
+                    <button onclick="scrollToSection('goods')" class="hover:text-fiscal-sage transition">Goods & Market</button>
+                    <button onclick="scrollToSection('revenue')" class="hover:text-fiscal-sage transition">Revenue & Tax</button>
+                    <button onclick="scrollToSection('deficits')" class="hover:text-fiscal-sage transition">Debt & Deficits</button>
+                    <button onclick="scrollToSection('federalism')" class="hover:text-fiscal-sage transition">Federalism</button>
+                </div>
+                <!-- Mobile Menu Button -->
+                <div class="md:hidden">
+                    <button id="mobile-menu-btn" class="text-gray-600 hover:text-fiscal-text focus:outline-none">
+                        ☰
+                    </button>
+                </div>
+            </div>
+        </div>
+        <!-- Mobile Nav Panel
